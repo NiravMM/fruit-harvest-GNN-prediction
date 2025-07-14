@@ -35,10 +35,3 @@ using node features from harvesting conditions and adjacency structure.
 
 📉 GraphSAGE clearly outperformed GCN in both metrics.
 
----
-
-## 🛠️ How to Run
-```bash
-# Upload notebook to Google Colab
-# Upload files from /data folder
-# Run all cells
